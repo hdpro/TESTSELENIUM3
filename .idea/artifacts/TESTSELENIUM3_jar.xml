@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TESTSELENIUM3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TESTSELENIUM3_jar</output-path>
+    <root id="archive" name="TESTSELENIUM3.jar">
+      <element id="module-output" name="TESTSELENIUM3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/selenium-server-standalone-3.141.59.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
